@@ -1,7 +1,7 @@
 # GO-L
 
-##开发环境安装
-###windows
+## 开发环境安装
+### windows
 #### 1. 下载安装包并安装  
 从官网https://golang.org/（需科学上网）或https://golang.google.cn/（镜像）下载windows安装包 如go1.12.7.windows-amd64.msi。
       双击安装包进行安装，默认安装至路径C:\Go\下。  
