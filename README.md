@@ -1,6 +1,9 @@
 # GO-L
+#目录
+* [安装](#SetUp)
 
-## 开发环境安装
+<h1 id="SetUp">开发环境安装</h1>  
+
 ### windows
 #### 1. 下载安装包并安装  
 从官网https://golang.org/（需科学上网）或https://golang.google.cn/（镜像）下载windows安装包 如go1.12.7.windows-amd64.msi。
@@ -31,11 +34,10 @@
 #### 4.克隆tools、lint代码库  
 > 由于golang.org在国内被屏蔽，可以从github.com下载其镜像。  
 方法如下：在cmd中输入:  
-
-      mkdir %GOPATH%\src\golang.org\x
+```   mkdir %GOPATH%\src\golang.org\x
       cd /d %GOPATH%\src\golang.org\x
       git clone https://github.com/golang/tools
       git clone https://github.com/golang/lint
       cd %GOPATH%\src 
       go install golang.org/x/lint
-  
+ ``` 
