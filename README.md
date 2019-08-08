@@ -1,6 +1,6 @@
 # GO-L
 ## 目录
-* [安装](#SetUp)
+* [安装Go](#SetUp)
 * [安装Goland](#Goland)
 
 <h1 id="SetUp">开发环境安装</h1>  
